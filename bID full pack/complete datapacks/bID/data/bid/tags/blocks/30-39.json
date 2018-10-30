@@ -1,0 +1,14 @@
+{
+  "values":[
+	"minecraft:jungle_door",
+	"minecraft:acacia_door",
+	"minecraft:dark_oak_door",
+	"minecraft:bedrock",
+	"minecraft:water",
+	"minecraft:lava",
+	"minecraft:sand",
+	"minecraft:red_sand",
+	"minecraft:sandstone",
+	"minecraft:chiseled_sandstone"
+  ]
+}

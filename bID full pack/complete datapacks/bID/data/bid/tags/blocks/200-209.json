@@ -1,0 +1,14 @@
+{
+  "values":[
+	"minecraft:sign",
+	"minecraft:wall_sign",
+	"minecraft:ladder",
+	"minecraft:rail",
+	"minecraft:powered_rail",
+	"minecraft:activator_rail",
+	"minecraft:detector_rail",
+	"minecraft:cobblestone_stairs",
+	"minecraft:sandstone_stairs",
+	"minecraft:red_sandstone_stairs"
+  ]
+}

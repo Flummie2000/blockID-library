@@ -1,0 +1,14 @@
+{
+  "values":[
+	"minecraft:quartz_block",
+	"minecraft:chiseled_quartz_block",
+	"minecraft:quartz_pillar",
+	"minecraft:quartz_stairs",
+	"minecraft:slime_block",
+	"minecraft:prismarine",
+	"minecraft:prismarine_bricks",
+	"minecraft:dark_prismarine",
+	"minecraft:sea_lantern",
+	"minecraft:end_rod"
+  ]
+}

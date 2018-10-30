@@ -1,0 +1,14 @@
+{
+  "values":[
+	"minecraft:iron_door",
+	"minecraft:redstone_ore",
+	"minecraft:redstone_torch",
+	"minecraft:redstone_wall_torch",
+	"minecraft:stone_button",
+	"minecraft:oak_button",
+	"minecraft:spruce_button",
+	"minecraft:birch_button",
+	"minecraft:jungle_button",
+	"minecraft:acacia_button"
+  ]
+}

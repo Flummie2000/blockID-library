@@ -1,0 +1,14 @@
+{
+  "values":[
+	"minecraft:attached_melon_stem",
+	"minecraft:melon_stem",
+	"minecraft:brewing_stand",
+	"minecraft:end_portal",
+	"minecraft:flower_pot",
+	"minecraft:potted_oak_sapling",
+	"minecraft:potted_spruce_sapling",
+	"minecraft:potted_birch_sapling",
+	"minecraft:potted_jungle_sapling",
+	"minecraft:potted_acacia_sapling"
+  ]
+}

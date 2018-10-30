@@ -1,0 +1,14 @@
+{
+  "values":[
+	"minecraft:stripped_acacia_wood",
+	"minecraft:stripped_dark_oak_wood",
+	"minecraft:oak_leaves[persistent=true]",
+	"minecraft:spruce_leaves[persistent=true]",
+	"minecraft:birch_leaves[persistent=true]",
+	"minecraft:jungle_leaves[persistent=true]",
+	"minecraft:acacia_leaves[persistent=true]",
+	"minecraft:dark_oak_leaves[persistent=true]",
+	"minecraft:oak_leaves[persistent=true]",
+	"minecraft:spruce_leaves[persistent=true]"
+  ]
+}

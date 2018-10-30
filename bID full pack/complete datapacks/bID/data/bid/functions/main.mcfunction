@@ -1,0 +1,3 @@
+execute as @a[scores={pick.bID=1..}] if entity @s[nbt={SelectedItem:{id:"minecraft:carrot_on_a_stick",tag:{Damage:7,Unbreakable:1}}}] at @s run scoreboard players set @s pickcast.bID 0
+execute as @a[scores={pick.bID=1..}] if entity @s[nbt={SelectedItem:{id:"minecraft:carrot_on_a_stick",tag:{Damage:7,Unbreakable:1}}}] at @s positioned ~ ~1.65 ~ run function bid:pickcast
+execute as @a[scores={pick.bID=1..}] if entity @s[nbt={SelectedItem:{id:"minecraft:carrot_on_a_stick",tag:{Damage:7,Unbreakable:1}}}] at @s run scoreboard players set @s pick.bID 0

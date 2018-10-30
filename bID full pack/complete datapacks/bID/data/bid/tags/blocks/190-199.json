@@ -1,0 +1,14 @@
+{
+  "values":[
+	"minecraft:chest",
+	"minecraft:trapped_chest",
+	"minecraft:redstone_wire",
+	"minecraft:diamond_ore",
+	"minecraft:coal_block",
+	"minecraft:diamond_block",
+	"minecraft:crafting_table",
+	"minecraft:wheat",
+	"minecraft:farmland",
+	"minecraft:furnace"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "values":[
+	"minecraft:birch_leaves[persistent=true]",
+	"minecraft:jungle_leaves[persistent=true]",
+	"minecraft:acacia_leaves[persistent=true]",
+	"minecraft:dark_oak_leaves[persistent=true]",
+	"minecraft:dead_bush",
+	"minecraft:grass",
+	"minecraft:fern",
+	"minecraft:sponge",
+	"minecraft:wet_sponge",
+	"minecraft:glass"
+  ]
+}

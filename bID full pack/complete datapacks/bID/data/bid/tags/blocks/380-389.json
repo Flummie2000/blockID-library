@@ -1,0 +1,14 @@
+{
+  "values":[
+	"minecraft:repeating_command_block",
+	"minecraft:chain_command_block",
+	"minecraft:beacon",
+	"minecraft:cobblestone_wall",
+	"minecraft:mossy_cobblestone_wall",
+	"minecraft:carrots",
+	"minecraft:potatoes",
+	"minecraft:daylight_detector",
+	"minecraft:nether_quartz_ore",
+	"minecraft:hopper"
+  ]
+}

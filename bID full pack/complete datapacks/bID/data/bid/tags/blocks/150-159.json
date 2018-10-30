@@ -1,0 +1,14 @@
+{
+  "values":[
+	"minecraft:iron_block",
+	"minecraft:smooth_stone",
+	"minecraft:smooth_sandstone",
+	"minecraft:smooth_red_sandstone",
+	"minecraft:smooth_quartz",
+	"minecraft:stone_slab",
+	"minecraft:sandstone_slab",
+	"minecraft:red_sandstone_slab",
+	"minecraft:petrified_oak_slab",
+	"minecraft:cobblestone_slab"
+  ]
+}

@@ -1,0 +1,9 @@
+Content of this pack:
+-complete datapacks
+  +1 fully generated bID datapack with all blocks in minecraft
+  +bID utils tool datapack
+-BIDGen.exe Generator to create bID datapacks
+-blocknames.txt as source to BIDGen.exe and complete list of minecraft blocks
+
+#reminder:
+to get any blockID simply use the bID blockpicker which you get by typing "/function bid:givepicker"

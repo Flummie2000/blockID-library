@@ -1,0 +1,14 @@
+{
+  "values":[
+	"minecraft:cut_sandstone",
+	"minecraft:red_sandstone",
+	"minecraft:chiseled_red_sandstone",
+	"minecraft:cut_red_sandstone",
+	"minecraft:gravel",
+	"minecraft:gold_ore",
+	"minecraft:iron_ore",
+	"minecraft:coal_ore",
+	"minecraft:oak_wood",
+	"minecraft:spruce_wood"
+  ]
+}

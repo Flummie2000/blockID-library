@@ -1,0 +1,14 @@
+{
+  "values":[
+	"minecraft:dragon_egg",
+	"minecraft:redstone_lamp",
+	"minecraft:cocoa",
+	"minecraft:ender_chest",
+	"minecraft:emerald_ore",
+	"minecraft:emerald_block",
+	"minecraft:redstone_block",
+	"minecraft:tripwire",
+	"minecraft:tripwire_hook",
+	"minecraft:command_block"
+  ]
+}

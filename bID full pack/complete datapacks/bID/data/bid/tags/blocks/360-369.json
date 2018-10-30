@@ -1,0 +1,14 @@
+{
+  "values":[
+	"minecraft:nether_wart",
+	"minecraft:cauldron",
+	"minecraft:enchanting_table",
+	"minecraft:anvil",
+	"minecraft:chipped_anvil",
+	"minecraft:damaged_anvil",
+	"minecraft:end_stone",
+	"minecraft:end_portal_frame",
+	"minecraft:mycelium",
+	"minecraft:lily_pad"
+  ]
+}
