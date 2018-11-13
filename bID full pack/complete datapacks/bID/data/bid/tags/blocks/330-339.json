@@ -1,14 +1,14 @@
 {
   "values":[
-	"minecraft:red_bed",
-	"minecraft:black_bed",
-	"minecraft:oak_trapdoor",
-	"minecraft:spruce_trapdoor",
-	"minecraft:birch_trapdoor",
-	"minecraft:jungle_trapdoor",
-	"minecraft:acacia_trapdoor",
-	"minecraft:dark_oak_trapdoor",
-	"minecraft:iron_trapdoor",
-	"minecraft:cobweb"
+	"minecraft:yellow_bed",
+	"minecraft:lime_bed",
+	"minecraft:pink_bed",
+	"minecraft:gray_bed",
+	"minecraft:light_gray_bed",
+	"minecraft:cyan_bed",
+	"minecraft:purple_bed",
+	"minecraft:blue_bed",
+	"minecraft:brown_bed",
+	"minecraft:green_bed"
   ]
 }

@@ -1,0 +1,14 @@
+{
+  "values":[
+	"minecraft:red_nether_brick_wall",
+	"minecraft:sandstone_wall",
+	"minecraft:end_stone_brick_wall",
+	"minecraft:diorite_wall",
+	"minecraft:barrel",
+	"minecraft:smoker",
+	"minecraft:blast_furnace",
+	"minecraft:cartography_table",
+	"minecraft:fletching_table",
+	"minecraft:smithing_table"
+  ]
+}

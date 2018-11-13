@@ -1,14 +1,14 @@
 {
   "values":[
-	"minecraft:chorus_plant",
-	"minecraft:chorus_flower",
-	"minecraft:purpur_block",
-	"minecraft:purpur_pillar",
-	"minecraft:purpur_stairs",
-	"minecraft:purpur_slab",
-	"minecraft:end_stone_bricks",
-	"minecraft:beetroots",
-	"minecraft:grass_path",
-	"minecraft:magma_block"
+	"minecraft:quartz_block",
+	"minecraft:chiseled_quartz_block",
+	"minecraft:quartz_pillar",
+	"minecraft:quartz_stairs",
+	"minecraft:slime_block",
+	"minecraft:prismarine",
+	"minecraft:prismarine_bricks",
+	"minecraft:dark_prismarine",
+	"minecraft:sea_lantern",
+	"minecraft:end_rod"
   ]
 }

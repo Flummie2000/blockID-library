@@ -1,21 +1,11 @@
 #This function contains blockIDs 580 to 589
-execute if entity @s[scores={material.bID=580}] run replaceitem entity @s armor.head minecraft:blue_banner 1
+execute if entity @s[scores={material.bID=585}] run replaceitem entity @s armor.head minecraft:loom 1
 
-execute if entity @s[scores={material.bID=581}] run replaceitem entity @s armor.head minecraft:purple_banner 1
+execute if entity @s[scores={material.bID=586}] run replaceitem entity @s armor.head minecraft:conduit 1
 
-execute if entity @s[scores={material.bID=582}] run replaceitem entity @s armor.head minecraft:cyan_banner 1
+execute if entity @s[scores={material.bID=587}] run replaceitem entity @s armor.head minecraft:black_banner 1
 
-execute if entity @s[scores={material.bID=583}] run replaceitem entity @s armor.head minecraft:light_gray_banner 1
+execute if entity @s[scores={material.bID=588}] run replaceitem entity @s armor.head minecraft:red_banner 1
 
-execute if entity @s[scores={material.bID=584}] run replaceitem entity @s armor.head minecraft:gray_banner 1
-
-execute if entity @s[scores={material.bID=585}] run replaceitem entity @s armor.head minecraft:pink_banner 1
-
-execute if entity @s[scores={material.bID=586}] run replaceitem entity @s armor.head minecraft:lime_banner 1
-
-execute if entity @s[scores={material.bID=587}] run replaceitem entity @s armor.head minecraft:yellow_banner 1
-
-execute if entity @s[scores={material.bID=588}] run replaceitem entity @s armor.head minecraft:light_blue_banner 1
-
-execute if entity @s[scores={material.bID=589}] run replaceitem entity @s armor.head minecraft:magenta_banner 1
+execute if entity @s[scores={material.bID=589}] run replaceitem entity @s armor.head minecraft:green_banner 1
 

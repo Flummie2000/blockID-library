@@ -1,14 +1,14 @@
 {
   "values":[
-	"minecraft:repeating_command_block",
-	"minecraft:chain_command_block",
-	"minecraft:beacon",
-	"minecraft:cobblestone_wall",
-	"minecraft:mossy_cobblestone_wall",
-	"minecraft:carrots",
-	"minecraft:potatoes",
-	"minecraft:daylight_detector",
-	"minecraft:nether_quartz_ore",
-	"minecraft:hopper"
+	"minecraft:dragon_egg",
+	"minecraft:redstone_lamp",
+	"minecraft:cocoa",
+	"minecraft:ender_chest",
+	"minecraft:emerald_ore",
+	"minecraft:emerald_block",
+	"minecraft:redstone_block",
+	"minecraft:tripwire",
+	"minecraft:tripwire_hook",
+	"minecraft:command_block"
   ]
 }

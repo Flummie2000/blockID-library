@@ -1,14 +1,14 @@
 {
   "values":[
-	"minecraft:blue_banner",
-	"minecraft:purple_banner",
-	"minecraft:cyan_banner",
-	"minecraft:light_gray_banner",
-	"minecraft:gray_banner",
-	"minecraft:pink_banner",
-	"minecraft:lime_banner",
-	"minecraft:yellow_banner",
-	"minecraft:light_blue_banner",
-	"minecraft:magenta_banner"
+	"minecraft:dead_tube_coral_wall_fan",
+	"minecraft:dead_brain_coral_wall_fan",
+	"minecraft:dead_bubble_coral_wall_fan",
+	"minecraft:dead_fire_coral_wall_fan",
+	"minecraft:dead_horn_coral_wall_fan",
+	"minecraft:loom",
+	"minecraft:conduit",
+	"minecraft:black_banner",
+	"minecraft:red_banner",
+	"minecraft:green_banner"
   ]
 }

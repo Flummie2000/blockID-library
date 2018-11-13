@@ -1,14 +1,14 @@
 {
   "values":[
-	"minecraft:terracotta",
-	"minecraft:sugar_cane",
-	"minecraft:jukebox",
-	"minecraft:oak_fence",
-	"minecraft:spruce_fence",
-	"minecraft:birch_fence",
-	"minecraft:jungle_fence",
-	"minecraft:dark_oak_fence",
-	"minecraft:acacia_fence",
-	"minecraft:oak_fence_gate"
+	"minecraft:pink_terracotta",
+	"minecraft:gray_terracotta",
+	"minecraft:light_gray_terracotta",
+	"minecraft:cyan_terracotta",
+	"minecraft:purple_terracotta",
+	"minecraft:blue_terracotta",
+	"minecraft:brown_terracotta",
+	"minecraft:green_terracotta",
+	"minecraft:red_terracotta",
+	"minecraft:black_terracotta"
   ]
 }

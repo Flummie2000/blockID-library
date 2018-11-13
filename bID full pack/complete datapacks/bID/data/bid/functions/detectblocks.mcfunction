@@ -117,5 +117,17 @@ execute if block ~ ~ ~ #bid:560-569 run function bid:detectblocks/560-569
 execute if block ~ ~ ~ #bid:570-579 run function bid:detectblocks/570-579
 #calls for blocks 580-589
 execute if block ~ ~ ~ #bid:580-589 run function bid:detectblocks/580-589
-#calls for blocks 590-592
-execute if block ~ ~ ~ #bid:590-592 run function bid:detectblocks/590-592
+#calls for blocks 590-599
+execute if block ~ ~ ~ #bid:590-599 run function bid:detectblocks/590-599
+#calls for blocks 600-609
+execute if block ~ ~ ~ #bid:600-609 run function bid:detectblocks/600-609
+#calls for blocks 610-619
+execute if block ~ ~ ~ #bid:610-619 run function bid:detectblocks/610-619
+#calls for blocks 620-629
+execute if block ~ ~ ~ #bid:620-629 run function bid:detectblocks/620-629
+#calls for blocks 630-639
+execute if block ~ ~ ~ #bid:630-639 run function bid:detectblocks/630-639
+#calls for blocks 640-649
+execute if block ~ ~ ~ #bid:640-649 run function bid:detectblocks/640-649
+#calls for blocks 650-655
+execute if block ~ ~ ~ #bid:650-655 run function bid:detectblocks/650-655

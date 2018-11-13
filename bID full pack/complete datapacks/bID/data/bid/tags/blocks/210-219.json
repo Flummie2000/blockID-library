@@ -1,14 +1,14 @@
 {
   "values":[
-	"minecraft:lever",
-	"minecraft:stone_pressure_plate",
-	"minecraft:oak_pressure_plate",
-	"minecraft:spruce_pressure_plate",
-	"minecraft:birch_pressure_plate",
-	"minecraft:jungle_pressure_plate",
-	"minecraft:acacia_pressure_plate",
-	"minecraft:dark_oak_pressure_plate",
-	"minecraft:light_weighted_pressure_plate",
-	"minecraft:heavy_weighted_pressure_plate"
+	"minecraft:jungle_wall_sign",
+	"minecraft:dark_oak_wall_sign",
+	"minecraft:ladder",
+	"minecraft:rail",
+	"minecraft:powered_rail",
+	"minecraft:activator_rail",
+	"minecraft:detector_rail",
+	"minecraft:cobblestone_stairs",
+	"minecraft:sandstone_stairs",
+	"minecraft:red_sandstone_stairs"
   ]
 }

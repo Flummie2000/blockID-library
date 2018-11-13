@@ -1,14 +1,14 @@
 {
   "values":[
-	"minecraft:lapis_ore",
-	"minecraft:lapis_block",
-	"minecraft:dispenser",
-	"minecraft:dropper",
-	"minecraft:note_block",
-	"minecraft:cake",
-	"minecraft:white_bed",
-	"minecraft:orange_bed",
-	"minecraft:magenta_bed",
-	"minecraft:light_blue_bed"
+	"minecraft:pink_wool",
+	"minecraft:gray_wool",
+	"minecraft:light_gray_wool",
+	"minecraft:cyan_wool",
+	"minecraft:purple_wool",
+	"minecraft:blue_wool",
+	"minecraft:brown_wool",
+	"minecraft:green_wool",
+	"minecraft:red_wool",
+	"minecraft:black_wool"
   ]
 }

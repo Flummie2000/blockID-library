@@ -1,14 +1,14 @@
 {
   "values":[
-	"minecraft:creeper_wall_head",
-	"minecraft:creeper_head",
-	"minecraft:dragon_wall_head",
-	"minecraft:dragon_head",
-	"minecraft:end_gateway",
-	"minecraft:structure_void",
-	"minecraft:structure_block",
-	"minecraft:void_air",
-	"minecraft:cave_air",
-	"minecraft:bubble_column"
+	"minecraft:potted_pink_tulip",
+	"minecraft:potted_oxeye_daisy",
+	"minecraft:potted_red_mushroom",
+	"minecraft:potted_brown_mushroom",
+	"minecraft:potted_dead_bush",
+	"minecraft:potted_cactus",
+	"minecraft:skeleton_skull",
+	"minecraft:wither_skeleton_skull",
+	"minecraft:zombie_head",
+	"minecraft:player_head"
   ]
 }

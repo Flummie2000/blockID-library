@@ -1,14 +1,14 @@
 {
   "values":[
-	"minecraft:white_banner",
-	"minecraft:orange_banner",
-	"minecraft:magenta_banner",
-	"minecraft:light_blue_banner",
-	"minecraft:yellow_banner",
-	"minecraft:lime_banner",
-	"minecraft:pink_banner",
-	"minecraft:gray_banner",
-	"minecraft:light_gray_banner",
-	"minecraft:cyan_banner"
+	"minecraft:light_gray_concrete_powder",
+	"minecraft:gray_concrete_powder",
+	"minecraft:pink_concrete_powder",
+	"minecraft:lime_concrete_powder",
+	"minecraft:yellow_concrete_powder",
+	"minecraft:light_blue_concrete_powder",
+	"minecraft:magenta_concrete_powder",
+	"minecraft:orange_concrete_powder",
+	"minecraft:white_concrete_powder",
+	"minecraft:turtle_egg"
   ]
 }

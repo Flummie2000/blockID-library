@@ -1,14 +1,14 @@
 {
   "values":[
-	"minecraft:quartz_block",
-	"minecraft:chiseled_quartz_block",
-	"minecraft:quartz_pillar",
-	"minecraft:quartz_stairs",
-	"minecraft:slime_block",
-	"minecraft:prismarine",
-	"minecraft:prismarine_bricks",
-	"minecraft:dark_prismarine",
-	"minecraft:sea_lantern",
-	"minecraft:end_rod"
+	"minecraft:repeating_command_block",
+	"minecraft:chain_command_block",
+	"minecraft:beacon",
+	"minecraft:cobblestone_wall",
+	"minecraft:mossy_cobblestone_wall",
+	"minecraft:carrots",
+	"minecraft:potatoes",
+	"minecraft:daylight_detector",
+	"minecraft:nether_quartz_ore",
+	"minecraft:hopper"
   ]
 }

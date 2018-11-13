@@ -1,21 +1,21 @@
 #This function contains blockIDs 500 to 509
-execute if entity @s[scores={material.bID=500}] run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:attached_melon_stem replace
+execute if entity @s[scores={material.bID=500}] run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:purple_banner replace
 
-execute if entity @s[scores={material.bID=501}] run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:melon_stem replace
+execute if entity @s[scores={material.bID=501}] run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:blue_banner replace
 
-execute if entity @s[scores={material.bID=502}] run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:brewing_stand replace
+execute if entity @s[scores={material.bID=502}] run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:brown_banner replace
 
-execute if entity @s[scores={material.bID=503}] run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:end_portal replace
+execute if entity @s[scores={material.bID=503}] run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:green_banner replace
 
-execute if entity @s[scores={material.bID=504}] run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:flower_pot replace
+execute if entity @s[scores={material.bID=504}] run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:red_banner replace
 
-execute if entity @s[scores={material.bID=505}] run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:potted_oak_sapling replace
+execute if entity @s[scores={material.bID=505}] run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:black_banner replace
 
-execute if entity @s[scores={material.bID=506}] run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:potted_spruce_sapling replace
+execute if entity @s[scores={material.bID=506}] run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:piston_head replace
 
-execute if entity @s[scores={material.bID=507}] run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:potted_birch_sapling replace
+execute if entity @s[scores={material.bID=507}] run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:moving_piston replace
 
-execute if entity @s[scores={material.bID=508}] run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:potted_jungle_sapling replace
+execute if entity @s[scores={material.bID=508}] run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:red_mushroom replace
 
-execute if entity @s[scores={material.bID=509}] run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:potted_acacia_sapling replace
+execute if entity @s[scores={material.bID=509}] run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:snow_block replace
 

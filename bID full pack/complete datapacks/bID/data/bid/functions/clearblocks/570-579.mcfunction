@@ -1,11 +1,11 @@
 #This function contains blockIDs 570 to 579
-execute if entity @s[scores={material.bID=575}] store result score @s detected.bID run clear @s minecraft:conduit 1
+execute if entity @s[scores={material.bID=570}] store result score @s detected.bID run clear @s minecraft:dead_tube_coral_fan 1
 
-execute if entity @s[scores={material.bID=576}] store result score @s detected.bID run clear @s minecraft:black_banner 1
+execute if entity @s[scores={material.bID=571}] store result score @s detected.bID run clear @s minecraft:dead_brain_coral_fan 1
 
-execute if entity @s[scores={material.bID=577}] store result score @s detected.bID run clear @s minecraft:red_banner 1
+execute if entity @s[scores={material.bID=572}] store result score @s detected.bID run clear @s minecraft:dead_bubble_coral_fan 1
 
-execute if entity @s[scores={material.bID=578}] store result score @s detected.bID run clear @s minecraft:green_banner 1
+execute if entity @s[scores={material.bID=573}] store result score @s detected.bID run clear @s minecraft:dead_fire_coral_fan 1
 
-execute if entity @s[scores={material.bID=579}] store result score @s detected.bID run clear @s minecraft:brown_banner 1
+execute if entity @s[scores={material.bID=574}] store result score @s detected.bID run clear @s minecraft:dead_horn_coral_fan 1
 

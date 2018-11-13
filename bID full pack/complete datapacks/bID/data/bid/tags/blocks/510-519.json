@@ -1,14 +1,14 @@
 {
   "values":[
-	"minecraft:potted_dark_oak_sapling",
-	"minecraft:potted_fern",
-	"minecraft:potted_dandelion",
-	"minecraft:potted_poppy",
-	"minecraft:potted_blue_orchid",
-	"minecraft:potted_allium",
-	"minecraft:potted_azure_bluet",
-	"minecraft:potted_red_tulip",
-	"minecraft:potted_orange_tulip",
-	"minecraft:potted_white_tulip"
+	"minecraft:attached_melon_stem",
+	"minecraft:melon_stem",
+	"minecraft:brewing_stand",
+	"minecraft:end_portal",
+	"minecraft:flower_pot",
+	"minecraft:potted_oak_sapling",
+	"minecraft:potted_spruce_sapling",
+	"minecraft:potted_birch_sapling",
+	"minecraft:potted_jungle_sapling",
+	"minecraft:potted_acacia_sapling"
   ]
 }

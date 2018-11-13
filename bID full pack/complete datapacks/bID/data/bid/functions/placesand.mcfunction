@@ -116,5 +116,17 @@ execute if entity @s[scores={material.bID=560..569}] run execute run function bi
 execute if entity @s[scores={material.bID=570..579}] run execute run function bid:placesand/570-579
 #calls for blocks 580-589
 execute if entity @s[scores={material.bID=580..589}] run execute run function bid:placesand/580-589
-#calls for blocks 590-592
-execute if entity @s[scores={material.bID=590..592}] run execute run function bid:placesand/590-592
+#calls for blocks 590-599
+execute if entity @s[scores={material.bID=590..599}] run execute run function bid:placesand/590-599
+#calls for blocks 600-609
+execute if entity @s[scores={material.bID=600..609}] run execute run function bid:placesand/600-609
+#calls for blocks 610-619
+execute if entity @s[scores={material.bID=610..619}] run execute run function bid:placesand/610-619
+#calls for blocks 620-629
+execute if entity @s[scores={material.bID=620..629}] run execute run function bid:placesand/620-629
+#calls for blocks 630-639
+execute if entity @s[scores={material.bID=630..639}] run execute run function bid:placesand/630-639
+#calls for blocks 640-649
+execute if entity @s[scores={material.bID=640..649}] run execute run function bid:placesand/640-649
+#calls for blocks 650-655
+execute if entity @s[scores={material.bID=650..655}] run execute run function bid:placesand/650-655

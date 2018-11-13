@@ -1,14 +1,14 @@
 {
   "values":[
-	"minecraft:spruce_fence_gate",
-	"minecraft:birch_fence_gate",
-	"minecraft:jungle_fence_gate",
-	"minecraft:dark_oak_fence_gate",
-	"minecraft:acacia_fence_gate",
-	"minecraft:pumpkin_stem",
-	"minecraft:attached_pumpkin_stem",
-	"minecraft:pumpkin",
-	"minecraft:carved_pumpkin",
-	"minecraft:jack_o_lantern"
+	"minecraft:terracotta",
+	"minecraft:sugar_cane",
+	"minecraft:jukebox",
+	"minecraft:oak_fence",
+	"minecraft:spruce_fence",
+	"minecraft:birch_fence",
+	"minecraft:jungle_fence",
+	"minecraft:dark_oak_fence",
+	"minecraft:acacia_fence",
+	"minecraft:oak_fence_gate"
   ]
 }

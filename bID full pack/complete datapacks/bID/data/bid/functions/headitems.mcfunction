@@ -116,5 +116,17 @@ execute if entity @s[scores={material.bID=560..569}] run function bid:headitems/
 execute if entity @s[scores={material.bID=570..579}] run function bid:headitems/570-579
 #calls for blocks 580-589
 execute if entity @s[scores={material.bID=580..589}] run function bid:headitems/580-589
-#calls for blocks 590-592
-execute if entity @s[scores={material.bID=590..592}] run function bid:headitems/590-592
+#calls for blocks 590-599
+execute if entity @s[scores={material.bID=590..599}] run function bid:headitems/590-599
+#calls for blocks 600-609
+execute if entity @s[scores={material.bID=600..609}] run function bid:headitems/600-609
+#calls for blocks 610-619
+execute if entity @s[scores={material.bID=610..619}] run function bid:headitems/610-619
+#calls for blocks 620-629
+execute if entity @s[scores={material.bID=620..629}] run function bid:headitems/620-629
+#calls for blocks 630-639
+execute if entity @s[scores={material.bID=630..639}] run function bid:headitems/630-639
+#calls for blocks 640-649
+execute if entity @s[scores={material.bID=640..649}] run function bid:headitems/640-649
+#calls for blocks 650-655
+execute if entity @s[scores={material.bID=650..655}] run function bid:headitems/650-655
